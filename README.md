@@ -5,5 +5,8 @@ Source code cannot be publically shared due to academic integrity concerns; howe
 made available upon request.
 
 Showcase: 
-<img width="564" alt="image" src="https://github.com/user-attachments/assets/91fe180d-bf5a-4e83-8f8c-ef2fb445a4f2">
+
+
+<img width="569" alt="image" src="https://github.com/user-attachments/assets/53376224-61dd-4fa0-b464-ea9fb075c7f4">
+
 
